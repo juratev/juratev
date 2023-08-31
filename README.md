@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ![Some text](https://media.giphy.com/media/MM0Jrc8BHKx3y/giphy.gif)
 
 ### Hi! I'm Jurate and I'm data science enthusiast. 💻👋🏻👩‍💻
+#
 ### About me
 📈 For several years worked as a data analyst. <br>
 👩‍🎓 Graduated with a Master of Science in Data Science from the University of Potsdam. <br>
